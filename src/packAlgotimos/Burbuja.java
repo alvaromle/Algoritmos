@@ -1,5 +1,11 @@
 package packAlgotimos;
 
+/**
+ * 
+ * @author alvaro MLE
+ *
+ */
+
 public class Burbuja {
 
 	public static void burbuja(int[] A) {
